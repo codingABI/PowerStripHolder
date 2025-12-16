@@ -11,6 +11,7 @@ A 3D printed mount for a multiple socket power strip for attachment to the edge 
 | ------------- | ------------- | ------------- |
 | Tabletop height | 28mm  | |
 | Powerstrip width | 46mm  |  |
+| Weight  | 105g |  |
 
 ## License and copyright
 My [3d STL print files](#STL) are licensed under the terms of CC0 [Copyright (c) 2025 codingABI](LICENSE). 
