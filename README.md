@@ -29,5 +29,5 @@ Printer settings used on my Anycubic Vyper (Thank you **https://github.com/m-hol
 - Nozzle: 0.4mm
 - Layer height: 0.15mm
 - Filament: PLA+ silk
-- Sparse infill density: 25% (For the holder. For the insert the default value 15% was used)
-- Raft layers: 1 layer (Optional, for the insert to prevent warping)
+- Sparse infill density: 25% (For the [Holder](STL/PowerStripHolder.stl). For the [Insert](STL/PowerStripInsert.stl) the default value 15% was used)
+- Raft layers: 1 layer (Optional, for the [Insert](STL/PowerStripInsert.stl) to prevent warping)
