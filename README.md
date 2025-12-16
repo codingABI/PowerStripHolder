@@ -1,5 +1,5 @@
 # PowerStripHolder
-A 3D printed mount for a multiple socket power strip for attachment to the edge of a table
+A 3D-printed mount for a power strip to attach to the edge of a table.
 
 ![Top view](assets/images/PowerStripHolder.jpg)
 
